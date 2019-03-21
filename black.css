@@ -940,7 +940,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__body--tombstone { color: #949494; }
 
-.c-message_kit__file__meta__text { color: #e6e6e6; }
+.c-message_kit__file__meta { color: #e6e6e6; }
 
 .c-message__label { color: #949494; }
 
