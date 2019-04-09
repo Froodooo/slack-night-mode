@@ -1775,7 +1775,7 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 .p-flexpane_header { background: #363636; border-color: #545454; color: #e6e6e6; }
 
-.c-icon_button--light, .c-icon_button--light.c-button-unstyled, .c-icon_button--light:link { color: #ffffff; }
+.p-flexpane_header .c-button-unstyled { color: #ffffff; }
 
 #client_body:not(.onboarding):not(.feature_global_nav_layout):before { background: #363636; }
 
